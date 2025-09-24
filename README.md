@@ -1,4 +1,4 @@
-# 🛡️ my-cybersec-portfolio
+# 🛡️ Cyber Note
 
 Welcome to my cybersecurity learning notes 👨‍💻  
 Here I collect my notes, tools, and write-ups from my learning journey.  
